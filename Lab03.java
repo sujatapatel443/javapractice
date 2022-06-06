@@ -5,6 +5,8 @@ s.show();
 
 Student s1=new Student(202,"SUJATA", 675344L);
 s1.show();
+Student s2=new Student(302,"SEEMA", 7637909);
+s2.show();
 }
 }
 
